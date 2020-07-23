@@ -1,0 +1,59 @@
+* {
+    font: arial;
+}
+body {
+    padding-top: 40px;
+    background-color: rgb(146, 141, 141);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.formulario {
+    background-color: rgb(71, 70, 70);
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(29, 73, 112);
+    margin-bottom: 5px;
+}
+input {
+    border-radius: 6px;
+}
+.botao:hover {
+    background-color: rgb(186, 220, 250);
+}
+h2 {
+    color:  rgb(186, 220, 250);
+    text-shadow: 2px 1px 3px rgb(38, 38, 82);
+}
+
+.sexo {
+    text-align: left;
+    padding-left: 35px;
+}
+
+.container-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1px;
+}
+.login {
+    background-color: rgb(71, 70, 70);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(29, 73, 112);
+}    
+
+
+
+
+
+
+
+
